@@ -1,245 +1,245 @@
 ---
-title: My Decade in Review
-date: '2020-01-01'
-spoiler: A personal reflection.
+title: この１０年を振り返る
+date: '2020年1月1日'
+spoiler: 個人的な内省
 ---
 
-I started this decade as a first-year college student fresh out of high school. I was 17, didn't have a job, didn't have any industry connections, and really didn't know shit. And now you're reading my blog! I would have been proud.
+私は高校を出たばかりの大学一年生としてこの10年を始めました。17歳で、仕事もなく、業界のコネもなく、本当に何も知りませんでした。そして今、あなたは私のブログを読んでいる！私は誇りに思っていただろう。
 
-I've told bits and pieces of my story on different podcasts. Now feels like an appropriate time to write down the parts that were most memorable to me.
+ポッドキャストで自分の話をしてきたが今は、私にとって最も印象的だった部分を書き留めるのに適した時期のように感じています。
 
-Every person's story is unique and not directly reproducible. I've benefited immensely from the privilege of being born in an upper middle class family and looking like a typical coder stereotype. People took chances on me. Still, I hope that sharing my story can be helpful to compare our experiences. Even if our circumstances are too different, at least you might find some of it entertaining.
+人の話は人それぞれで、直接再現できるものではありません。中流階級の上流階級の家庭に生まれ、典型的なコーダーのステレオタイプのように見えるという特権から、私は大きな恩恵を受けてきました。人々は私にチャンスを与えてくれました。それでも、私の話を共有することで、私たちの経験を比較するのに役立つことを願っています。たとえ私たちの境遇があまりにも違っていたとしても、少なくともあなたには面白いと思ってもらえるかもしれません。
 
 ## 2010
 
-I was born in Russia and I finished the high school there in 2009. In Russia, higher education is free if you do well enough at tests. I tried my chances with a few colleges. I was particularly hoping to get into one college whose students often won programming competitions (which I thought was cool at the time).
+私はロシアで生まれ、2009年に現地の高校を卒業しました。ロシアでは、テストで十分な成績を残せば、高等教育はタダで受けられます。私はいくつかの大学にチャレンジしました。特に、学生がよくプログラミングの大会で優勝している大学に入りたかったのですが（当時はかっこいいと思っていました）、数学のテストの点数が悪かったことが判明しました。
 
-However, it turned out my math exam scores weren't good enough. So there were not many options I could choose from that had to do with programming. From the remaining options, I picked a college that gave Macbooks to students. (Remember the white plastic ones with GarageBand? They were the best.)
+しかし、私の数学のテストの点数は十分ではないことがわかりました。そのため、プログラミングに関連した選択肢はあまりありませんでした。残っていた選択肢の中から、私はMacBookを学生に与えてくれる大学を選びました。白いプラスチック製のGarageBandが付いていたのを覚えていますか？
 
-By the summer of 2010, I had just finished my first year there. It turned out that there wasn’t going to be much programming in the curriculum for two more years. But there was a lot of linear algebra, physics, and other subjects I didn't find particularly interesting. Everything was well in the beginning, but I started slacking off and skipping lectures that I had to wake up early for. My gaps in knowledge gradually snowballed, and most of what I remember from my first year in the university is the anxiety associated with feeling like a total failure.
+2010年の夏、私はその大学の1年目を終えたばかりでした。それは、あと2年間はカリキュラムの中でプログラミングをすることはあまりないことが判明しました。しかし、線形代数や物理学など、私が特に面白いと思わなかった科目がたくさんありました。最初のうちは何もかも順調だったのですが、だんだんとサボり始め、早起きしなければならない講義をサボるようになってしまいました。知識の差はだんだんと雪だるま式に広がっていき、大学1年目の頃の記憶は、大失敗した時の不安感がほとんどです。
 
-Even for subjects I knew well, things didn't quite go as I planned. Our English classes were very rudimentary, and I got a verbal approval from the teacher to skip most of them. But when I came for the final test, I wasn't *allowed* to turn it in unless I pay money for hours of "catch up training" with the same teacher. This experience left me resentful and suspicious of higher education.
+よく知っている科目でも、思い通りにいかないことがありました。英語の授業はとても初歩的なもので、先生からの口頭での了解を得て、ほとんどの授業をサボっていました。しかし、期末テストの時には、お金を払って同じ先生に何時間も「追いつく訓練」をしてもらわないと、提出することができませんでした。この経験から、私は高等教育を恨み、疑っていました。
 
-Aside from being a lousy student, I was also in my first serious relationship -- and it wasn't going very well either. I was unhappy, but I thought that you can solve this by continuing to be unhappy and "fixing" it. Unfortunately, I didn't have the wisdom to get out of a non-working relationship for a few more years.
+お粗末な学生であることはさておき、私はまた、私の最初の深刻な関係にあった -- そして、それはどちらも非常にうまくいっていませんでした。私は不幸だったのですが、不幸であり続けることで、それを「修正」することで解決できると思っていました。残念ながら、私には、さらに数年間、うまくいっていない関係から抜け出す知恵がありませんでした。
 
-Now onto the bright side. Professionally, 2010 was an exciting year for me. I got my first job as a software developer! Here's how that happened.
+さて、明るい面に目を向けてみましょう。職業的には、2010年は私にとってエキサイティングな年でした。私はソフトウェア開発者としての最初の仕事を得たのです。それがどのようにして起こったのかを紹介します。
 
-There was a small venue close to my college that hosted different events. This venue was a "business incubator" -- mind you, not a Silicon Valley kind of business incubator -- but a tiny Russian one. I have no idea what businesses they "incubated". However, they hosted a talk about software development, and I decided to check it out because I was starving for that kind of content. I didn't know any programmers in real life, and I didn't know meetups existed!
+私の大学の近くに、様々なイベントを主催する小さな会場がありました。この会場は「ビジネスインキュベーター」と呼ばれるもので、シリコンバレーのようなビジネスインキュベーターではなく、ロシアの小さな会場でした。どんなビジネスを「インキュベート」していたのか、私にはさっぱりわかりません。しかし、彼らはソフトウェア開発についてのトークを主催していたので、私はその種のコンテンツに飢えていたので、それをチェックアウトすることにしました。実生活ではプログラマーの知り合いもいないし、ミートアップの存在も知らなかった。
 
-I don't remember what the talk was about now. But I knew the person who gave it was an executive in a Russian-American outsourcing company. I've been programming since 12, so I approached him and asked if they're hiring. He gave me an email, I went through their test exercises, and in a few weeks got the job.
+どんな話だったかは今となっては覚えていません。でも、その講演をした人がロシア系アメリカのアウトソーシング会社の幹部だったことは知っていました。私は12歳の頃からプログラミングをしていたので、彼に声をかけて、募集しているかどうか聞いてみました。彼はメールをくれて、私は彼らのテスト演習に参加して、数週間で仕事を得ました。
 
-I started at my first job during the summer of 2010. My salary was $18k/year (yes that’s 18 and not 180). This is peanuts in the developed world, but again, this was Russia -- so the rent was cheap too. I immediately moved out of my mom's apartment and started renting a room for $150 a month. I was excited. With my first salary, I bought an iPhone and marvelled at how good the UI was.
+最初の仕事は2010年の夏に始めました。私の給料は$18k/年でした（はい、18歳で180歳ではありません）。これは先進国ではピーナッツですが、ここはロシアだったので、家賃も安かったです。私はすぐに母のアパートを出て、月150ドルで部屋を借り始めました。ワクワクしました。最初の給料でiPhoneを買って、UIの良さに感動しました。
 
-Summer came and went, and then the second college year started. But it started without me. Now that I was doing actual work and people payed me for it, I lost my last bits of motivation for sitting at lectures and doing exercises. I stopped going there and didn't show up for the midterm exams. I returned my Macbook. The only time I went there again was five years later, to pick up my papers.
+夏が来ては消え、大学2年目が始まりました。しかし、それは私なしで始まった。実際に仕事をしてお金をもらうようになってからは、講義に座って演習をするという最後のモチベーションがなくなってしまいました。私はそこに行くのをやめ、中間試験にも出てこなかった。Macbookを返しました。再び行ったのは5年後、論文を取りに行った時だけでした。
 
-A short digression. I'm not saying colleges are worthless, or that you should drop out. It was the right decision for me, but I knew I could fall back on my family (more on that later) when things are tough. I also already had a job.
+余談ですが、私は大学がダメだと言っているわけではありません。大学に価値がないと言ってるわけじゃないし、中退しろと言ってるわけでもない。それは私にとって正しい決断でしたが、物事が厳しい時には家族に頼ることができることを知っていました（それについての詳細は後ほど）。また、私はすでに仕事を持っていた。
 
-I had the privilege to be seen as knowledgeable *by default* due to my background (a guy who started coding early). People who don't fit this stereotype often get a degree just to gain access to that assumed competence. So there's that.
+私の経歴（早くからコーディングを始めた人）のおかげで、デフォルトで知識があると見られる特権を持っていました。このステレオタイプに当てはまらない人は、その想定された能力にアクセスするためだけに学位を取得することが多い。そういうことです。
 
 ## 2011
 
-Most of my job was fixing up poor code after cheaper outsourcing companies. Having no industry experience myself, I overengineered every project to try every cool technology I could get my hands on. I even put [random Microsoft Research projects](https://www.microsoft.com/en-us/research/project/moles-isolation-framework-for-net/) in production. Sorry about that. I did some good work too.
+私の仕事のほとんどは、より安い外注会社の後に粗悪なコードを修正することでした。業界経験のない私は、あらゆるプロジェクトをオーバーエンジニアリングして、自分の手で手に入るクールなテクノロジーを試してみました。マイクロソフトの研究プロジェクトを無作為に作ったこともありました。申し訳ありませんでした。私も良い仕事をしました。
 
-My first interesting work project involved a trip. Our client was an investment group in New York. I still don't know anything about investments, but basically they had an email system that received orders, and those orders needed to go through different levels of approval. They had a service that manages that, but the service was extremely flaky, and nobody could figure out how it works. My job was to go onsite, work from New York for a month, and fix the service.
+私の最初の興味深い仕事のプロジェクトは、旅行に関係していました。クライアントはニューヨークの投資グループでした。私はまだ投資について何も知らないのですが、基本的に彼らは注文を受け取るメールシステムを持っていて、それらの注文は異なるレベルの承認を経る必要がありました。それを管理するサービスがあったのですが、そのサービスは非常に欠陥が多く、誰もそれがどのように機能するのか理解できませんでした。私の仕事は現場に行って、ニューヨークから1ヶ月間仕事をして、サービスを修正することでした。
 
-The service was written by a contractor from a cheaper outsourcing company. Nine years later, I still remember his name. The most memorable part of that code was a single thirty thousand line function. To figure out what it does, I had to print it on paper, lay out the sheets on my desk, and annotate them with a pencil. It turned out that it was the same block of code, repeated fifty times with different conditions. I guess someone was paid by the number of lines of code.
+そのサービスは、安い外注先の業者が書いたものでした。9年後、私はまだ彼の名前を覚えています。そのコードの中で最も記憶に残っているのは、たった1つの3万行の関数でした。それが何をするのかを理解するために、私はそれを紙に印刷し、机の上にシートを並べ、鉛筆で注釈をつけなければなりませんでした。それは同じコードの塊で、条件を変えて50回繰り返されていることが判明した。誰かがコードの行数でお金をもらっていたのだろう。
 
-I spent that month adding a shitton of logging to figure out what the service does in production, and then rebuilding it from scratch to be less flaky. Working with a non-tech company was a perplexing experience. For example, I couldn't push a bugfix without writing a Word document describing my changes and getting the IT department head to sign off on it. Now *that's* some code review.
+私はその月、サービスが本番で何をしているのかを把握するために、大量のロギングを追加して、それをゼロから再構築して、より欠陥の少ないものにしました。非技術系の会社との仕事は、戸惑うことばかりでした。例えば、私は自分の変更点を記述した Word 文書を書き、IT 部門のトップに承認を得なければ、バグフィックスをプッシュすることができませんでした。今では、これがコードレビューになっています。
 
-Close to the end of my trip, I went to see a concert at a bar late at night. The next morning I was supposed to present my month of work to the client. My meeting was scheduled for 9am. Unfortunately, I overslept and only woke up at 1pm that day. My manager apologized for me, and I went home bitterly embarrassed.
+旅の終わり近く、夜遅くにバーでコンサートを見に行きました。次の日の朝、私はクライアントに自分の一ヶ月間の仕事のプレゼンテーションをすることになっていた。私の会議は午前9時に予定されていました。残念ながら私は寝坊してしまい、その日は午後1時にしか目が覚めませんでした。上司に謝られ、恥ずかしい思いをして帰宅しました。
 
-There were no repercussions at work. The project was a success overall, and the client knew I'm some weird Russian dude who doesn't know how to groom his hair. But I knew I made a fool of myself. I also wasn't particularly looking forward to more "enterprise projects". Work became a chore.
+職場では何の反響もありませんでした。プロジェクトは全体的に成功したし、クライアントは私が髪の毛の手入れの仕方を知らない変なロシア人だと知っていた。でも、自分をバカにしていたのは分かっていた。私はまた、より多くの "エンタープライズプロジェクト "を特に楽しみにしていませんでした。仕事が雑になってしまった。
 
-I was back in Saint Petersburg in Russia. In the summer, the sky there doesn't go dark. During one night of soul-searching, I hopped from a bar to another with a vague sense of unease. Around 7am, a lightbulb went off in my head. I ate a shawarma, took a subway to the office, waited for HR, and quit my job.
+私はロシアのサンクトペテルブルクに戻っていた。夏になっても、そこの空は暗くならない。ある夜、漠然とした不安を抱えながら、バーからバーへと飛び回っていた。朝7時頃、頭の中で電球が点いた。シャワルマを食べ、地下鉄で会社に行き、人事部を待ち、仕事を辞めた。
 
-My friend was planning a trip to Crimea (before it got annexed) and asked if I would like to join. I packed up a tent and an old Nokia phone that held battery for a week. We camped for two weeks, mostly naked, in a fog of alternative mind states. I barely remember anything from that trip except two episodes.
+友人がクリミア（併合される前）への旅行を計画していて、参加しないかと誘われました。私はテントと一週間分のバッテリーを持っていた古いノキアの携帯電話を荷造りしました。私たちは2週間、ほとんど裸でキャンプをしました。その旅のことは、2つのエピソードを除いてほとんど覚えていません。
 
-Once, somebody threatened me with a knife. That person said he would kill me, but he was gone the next day, and everything went on as normal. Another time, I foolishly tried to swim around the cliff alone and almost drowned. I was saved by a rock in the sea that I climbed and passed out on for what felt like an hour.
+一度だけ、誰かにナイフで脅された。その人は私を殺すと言ったが、次の日にはいなくなっていて、すべてが通常通りになっていた。もう一つは、愚かなことに一人で崖を泳ぎ回ろうとして溺れそうになったことがありました。私は海の中の岩に助けられ、登って気絶したのですが、その時は1時間ほど気を失っていました。
 
-This trip acted like a hardware reset. My burnout was cured, and I was ready to write code again. (But don't say I told you to almost die to cure a burnout.)
+この旅はハードウェアのリセットのようなものだった。燃え尽き症候群が治り、再びコードを書く準備ができました。(だが、燃え尽き症候群を治すために死にかけろと言ったとは言わないでくれ)
 
-The only problem was... my skills were irrelevant! Yikes.
+唯一の問題は... 私のスキルが無関係だったことだ！うわぁ。
 
-You see, I was mostly writing desktop software. Has anyone even heard of desktop software? That's not a thing anymore. Either you do backend, or you do mobile, or you do front-end. I didn't know anything about either of them. And I didn't have a job. So I had to move back to live with my Mom. (Thanks, Mom!)
+私はほとんどデスクトップ・ソフトウェアを書いていました。デスクトップ・ソフトウェアって聞いたことある？それはもうありません。バックエンドかモバイルか フロントエンドのどちらかだ 私はどちらも何も知りませんでした。それに仕事もなかった。だから、ママと一緒に住むために引っ越すしかなかった。(ありがとう、ママ！)
 
-Soon, I saw a post on a social network. It was written by a Russian guy who came back from the Silicon Valley to Russia. He was looking for people who would volunteer to work on his projects for free, in return for him teaching us web development for free. At the time, that sounded like a good deal to me.
+やがて、あるSNSの投稿を目にした。シリコンバレーからロシアに戻ってきたロシア人が書いていました。彼は、無料でウェブ開発を教えてくれる見返りに、自分のプロジェクトにボランティアで参加してくれる人を探していました。当時の私には、それは良い取引のように聞こえました。
 
-I joined this program. I found out quickly enough that there was no real teaching involved: we were given a few tutorials from the web, and we mostly learned from helping each other. Luckily, I could afford to do that for some time while I lived at my Mom's place. I learned Git, basics of Python, Django, a bit of CSS and JavaScript, and some Bash to deploy my changes. Hello Web, here I go.
+私はこのプログラムに参加しました。私たちはウェブからいくつかのチュートリアルをもらい、ほとんどがお互いに助け合うことで学びました。幸運なことに、母の家に住んでいた間、しばらくの間はそのようなことをする余裕がありました。私はGit、Pythonの基本、Django、少しのCSSとJavaScript、そして私の変更をデプロイするためのいくつかのBashを学びました。Hello Web、これが私の出番です。
 
-Nine years later, I'm still unsure how I feel about this program. On the one hand, we were working on his projects for free. On the other hand, we were given full root access, and it was really exciting to be able to push our changes in production and learn from our mistakes. It gave us a structure for learning. It didn't cost us anything, and you could drop out any time. The projects had some social utility due to being around education. This reminded me of open source.
+9年経った今でも、この番組の感想がよくわかりません。一方では、私たちは無料で彼のプロジェクトに取り組んでいました。一方で、私たちは完全なルートアクセスを与えられていましたが、本番で自分たちの変更をプッシュしたり、失敗から学ぶことができたのは本当に刺激的でした。それは私たちに学習するための仕組みを与えてくれました。何のコストもかかりませんでしたし、いつでもドロップアウトすることができました。プロジェクトには、教育に関わることで社会的な有用性がありました。これはオープンソースを思い出させてくれました。
 
-I still feel grateful to this person for setting up this ad hoc "bootcamp" and being my mentor. But I don't want to imply that working for free is a good way to practice in general. I'm not offering advice here -- I am only telling my story.
+この人には、その場しのぎの「ブートキャンプ」を立ち上げてくれて、私のメンターになってくれたことに今でも感謝しています。しかし、無料で働くことが一般的には良い練習方法であることをほのめかしたくはありません。私はここでアドバイスをしているわけではありません - 私はただ私の話をしているだけです。
 
-I built a dashboard where we could track our own learning achievements. My mentor suggested that I pitch it as a product to companies that run courses. My brief foray into playing "startups" was awkward. I didn't know what product I was building, and I pitched different things to different people. Essentially, I ended up making several completely different websites for different clients with a single engine, and earned about $200 in the process. I wasted months of my time on it, as well as the time of friends who offered to help. I was ashamed of it, and shut it down. The silver lining was that I became a web developer.
+私は自分の学習成果を追跡できるダッシュボードを作りました。私の指導者は、コースを運営している企業に製品として売り込むことを提案してくれました。スタートアップ企業」との駆け引きは、私にとっては気まずいものでした。自分がどのような製品を作っているのかわからなかったし、違う人に違うものを売り込んだのです。本質的には、1つのエンジンを使って、異なるクライアントのためにいくつかの全く異なるウェブサイトを作り、その過程で約200ドルを稼ぎました。私はそれに私の時間の数ヶ月を無駄にしただけでなく、助けてくれると申し出た友人の時間も無駄にした。私はそれを恥じ、それをシャットダウンしました。希望の光は、私がウェブ開発者になったことでした。
 
-But I still didn't have a job.
+しかし、私にはまだ仕事がありませんでした。
 
 ## 2012
 
-As a 20 year old web developer, there was only one place I wanted to work at. It was a Russian social media company. Everybody in Russia used their product. That product was very polished. And the team was considered *cool*. Almost elite.
+20歳のウェブ開発者として、私が働きたいと思っていた職場は1つだけありました。それはロシアのソーシャルメディアの会社でした。ロシアの誰もが彼らの製品を使っていました。その製品はとても洗練されていました。そして、チームは **クール** だと思われていた。ほとんどエリートでした。
 
-Their executives often posted about how well-paid their engineers are. The small team of engineers seemed happy with the technical challenges and how the company treated them. In the Russian tech circles, many knew their names.
+彼らの幹部は、彼らのエンジニアがいかに高給取りであるかについてよく投稿していました。エンジニアの小さなチームは、技術的な課題と会社が彼らをどのように扱うかに満足しているように見えました。ロシアの技術界では、多くの人が彼らの名前を知っていました。
 
-My mentor introduced me to their CTO, and I got a takehome exercise in JavaScript. It involved building a clone of their typeahead where you could select friends to message. I spent two weeks building it. It was pixel perfect in all browsers. I took care to replicate a similar caching and debouncing behavior.
+私の師匠が彼らのCTOを紹介してくれて、私はJavaScriptを使った持ち帰りの練習をしました。それは、メッセージする友人を選択できるtypeaheadのクローンを作ることでした。私はそれを構築するのに2週間を費やしました。すべてのブラウザでピクセル・パーフェクトでした。同様のキャッシングとデバウンスの動作を再現するように注意しました。
 
-The onsite interview was a disaster. Clearly, I didn't have the experience at their scale. However, they said they're willing to give me a try if I "understand their product". They gave me a take-home exercise of designing a logged out state for that social media website. They wanted it to show a picture of a feature phone -- many people didn't know the mobile website works on cheap phones.
+現場でのインタビューは大失敗でした。明らかに、私には彼らの規模での経験がありませんでした。しかし、彼らは私が「彼らの製品を理解している」のであれば、喜んで私に試してみると言ってくれました。そのソーシャルメディアサイトのログアウト状態をデザインするという持ち帰り課題を与えられた。彼らはそれがフィーチャーフォンの写真を表示することを望んでいた - 多くの人は携帯サイトが格安スマホで動作することを知らなかった。
 
-I spent a week designing that page. I did a lot of tiny details and even hid some Easter eggs in it. I was proud of myself. However, I couldn't find any decent designs of a feature phone that wouldn't look ugly. Instead, I put a beautiful iPhone design there. So aesthetically pleasing, I thought.
+私はそのページのデザインに一週間を費やしました。私はたくさんの小さな詳細を行い、さらにはイースターエッグを隠しました。私は自分を誇りに思っていました。しかし、私は醜く見えないフィーチャーフォンのまともなデザインを見つけることができませんでした。代わりに、私はそこに美しいiPhoneのデザインを入れました。美しくていいな、と思って。
 
-Of course, I got rejected. I ignored literally the only hard requirement -- why was I so dense? I cried for a few hours because I didn't really want to work anywhere else. I was still living with my Mom and was making no money.
+もちろん、却下されました。唯一のハード要件を無視していたのです。他で働きたくないと思って、数時間泣いていました。私はまだ母と暮らしていて、お金も作っていませんでした。
 
-At the time, I was seriously doubting my skills. Many things seemed "magic" to me. I started having doubts about whether dropping out was a good idea, after all. I signed up for an iOS development course on iTunes U. I also signed up for two courses on Coursera: Compilers and Machine Learning. Maybe they would make me a "real programmer".
+当時は、自分のスキルを本気で疑っていました。自分には「魔法」のように思えることがたくさんありました。このまま中退してもいいのだろうか、と疑問を持ち始めました。私はiTunes UのiOS開発コースにサインアップしました。コンパイラと機械学習です。もしかしたら、これらのコースは私を「本物のプログラマー」にしてくれるかもしれません。
 
-It was lonely to go through these courses on my own. I organized a tiny meetup with a few people from our web development "bootcamp". We would gather and watch different online courses together at my mentor's coworking space.
+一人でこれらの講座を受講するのは寂しいものでした。私は、ウェブ開発の「ブートキャンプ」に参加していた数人の人たちと小さなミートアップを組織しました。私たちは、私のメンターのコワーキングスペースで一緒に収集し、異なるオンラインコースを見るだろう。
 
-A month into it, I got an email. Someone was looking to hire a developer, and he heard about me from a person who went to my meetup. I was sick with mono and ignored the email, but this guy kept emailing me. He wanted to skype.
+その1ヶ月後、私はメールを受け取りました。誰かが開発者を雇いたいと思っていて、私のミートアップに行った人から私のことを聞いたそうです。私はモノホンの病気でメールを無視していたのですが、その人は私にメールを送り続けていました。彼はスカイプをしたいと言っていました。
 
-Roman Mazurenko was not a typical startup founder. Roman was interested in DIY publishing. Together with a couple of friends, for a few years, he somehow [made Moscow cool](https://youtu.be/Wj2FmNGw47c?t=9). He organized parties and posed for fashion magazines. I didn't know what to expect. But Roman was very down-to-earth and fun to talk to. His dream was to build a DIY publishing platform like in this [concept video](https://vimeo.com/55247463). I would have to move to Moscow and learn iOS development on the go. (By the way, the video guy is not Roman but a friend, and the app in the video is a fake animation made with Flash. Roman was great at crafting smoke and mirrors.)
+ローマン・マズレンコは典型的なスタートアップの創業者ではなかった。RomanはDIY出版に興味を持っていた。数年間、数人の友人と一緒に、彼はどうにかして[モスクワをクールに](https://youtu.be/Wj2FmNGw47c?t=9)していた。彼はパーティーを企画したり、ファッション雑誌のポーズをとったりしていました。何を期待していいのかわからなかった。でも、ローマンはとても気さくで、話していて楽しかったです。彼の夢は、この[コンセプトビデオ](https://vimeo.com/55247463)のようなDIY出版のプラットフォームを作ることだった。モスクワに引っ越して、外出先でiOSの開発を学ぶことになりそうです。(ちなみに動画の人はRomanではなく友人で、動画に出てくるアプリはFlashで作られた偽物のアニメーションです。Romanはスモーク＆ミラーを作るのが得意でした。)
 
-I said yes.
+私は「はい」と答えた。
 
-I didn't finish my Compilers and Machine Learning courses. I learned enough to know these topics aren't magic. After that, I lost most of my interest in them.
+私はコンパイラと機械学習のコースを終わらせませんでした。これらのトピックが魔法ではないことを知るには十分でした。その後、私はそれらにほとんど興味を失いました。
 
 ## 2013
 
-By 2013, my salary was $30k/year -- almost twice what I made at my previous job. While low by US standards, it was pretty decent in Russia. I also negotiated some stock at Stampsy (spoiler alert: it ended up completely worthless).
+2013年までには、私の給料は年収3万ドルで、前職の約2倍になりました。アメリカの基準では低いですが、ロシアではかなりまともでした。また、私はStampsyで株の交渉もしました（ネタバレ注意：それは全く価値のないものになってしまいました）。
 
-Our team had five developers and two designers. We started by developing an iPad app, but neither of us had any real knowledge of iOS. I remember my relief when a teammate figured out how to implement the animation we needed for the first time. Until then, I thought we were doomed.
+私たちのチームには5人の開発者と2人のデザイナーがいました。私たちはiPadアプリの開発から始めましたが、二人ともiOSの知識は全くありませんでした。チームメイトが初めて必要なアニメーションを実装する方法を見つけてくれたときの安堵感を覚えています。それまでは、もうダメだと思っていました。
 
-For a few months, I literally lived in our office. Looking back at this period, I'm not proud of my life-work balance, and it was not healthy. However, I learned more during these months than in two years before, and I don't regret them.
+数ヶ月間、私は文字通りオフィスで生活していました。この時期を振り返ってみると、自分のライフワークバランスはあまり自慢できるものではなく、健康的ではありませんでした。しかし、この数ヶ月間に2年前よりも多くのことを学びましたし、後悔はしていません。
 
-Eventually, I moved out of the office. I've started to live in the same flat as Roman. My room cost me $1k/month. It was a spacious flat in the only area of Moscow that I enjoyed, and it was only five minutes of walk from the office.
+結局、私は会社を引っ越しました。ローマンと同じフラットに住み始めました。私の部屋は月に1,000ドルもした。モスクワで唯一楽しめるエリアにある広々としたフラットで、オフィスからも徒歩5分で行ける距離でした。
 
-We thought that some of the code we wrote might be useful to others. So we started publishing those pieces on GitHub. We didn't expect anything grand, and even getting a couple of contributions was really nice. The most popular project I worked on during that period has 30 stars. To us, that was a *lot*.
+私たちは、自分たちが書いたコードのいくつかが他の人の役に立つかもしれないと考えました。そこで、それらをGitHubで公開し始めました。壮大なものは期待していませんでしたが、いくつかの貢献を得ることができたのは本当に嬉しかったです。その間に取り組んだ最も人気のあるプロジェクトには30個の星がついていました。私たちにとっては、それは**多く**のことでした。
 
-A designer on our team introduced me to Bret Victor's talks -- particularly, to [Inventing on Principle](https://vimeo.com/36579366). I thought it was a very good talk. A *very* good one.
+チームのデザイナーがブレット・ビクターの講演、特に[Inventing on Principle](https://vimeo.com/36579366)を紹介してくれました。とても良い講演だと思いました。*とても*良い話でした。
 
-In April, we released the [iPad app](https://www.youtube.com/watch?v=PjaL0xFbEY8) we've been working on. Apple reached out to our team and asked for assets to feature it in the App Store. We were over the moon. It stayed featured for weeks, and people started using it.
+4月には、私たちが取り組んできた[iPadアプリ](https://www.youtube.com/watch?v=PjaL0xFbEY8))をリリースしました。Appleは私たちのチームに連絡を取り、App Storeに掲載するためのアセットを要求してきました。私たちは大喜びでした。何週間もフィーチャーされたままで、人々はそれを使い始めました。
 
-Our excitement quickly wore down as we realized there was no product market fit. The app was designed to create beautiful magazine-like layouts, but nobody had any beautiful content on an iPad. Also, the iPad camera had a horrible quality. The product didn't make any sense. How could we not realize this?
+しかし、私たちの興奮はすぐに収まり、市場に合う製品がないことに気付きました。このアプリは、雑誌のような美しいレイアウトを作成するために設計されていましたが、iPadで美しいコンテンツを作成する人はいませんでした。また、iPadのカメラの画質も最悪でした。製品としての意味がない。どうして気づかなかったのか。
 
-My personal relationship was falling apart too. We weren't a good fit, and mostly clung to each other out of fear of being alone. We finally broke up.
+個人的な人間関係もボロボロになっていました。私たちは相性が悪く、一人になることを恐れてお互いにしがみついていました。ついに別れました。
 
-For a few months, I didn't talk to people from our shared mutual circle and focused on work. But I realized that I missed one particular friend. I wrote to her, and she said she missed me too. I arranged a plan for a trip together.
+数ヶ月間、私は私たちの共通のサークルの人々に話をしないで、仕事に集中していました。しかし、ある特定の友人がいなくて寂しいことに気づきました。彼女に手紙を書いたら、彼女も寂しいと言っていた。私は一緒に旅行に行く計画を立てた。
 
-I caught a cold. As the day of our would-be trip got closer, I felt worse, but I was hoping that maybe I'd be okay. When my train from Moscow to St. Petersburg had arrived, I clearly had a temperature. She said to come to her place anyway. She made me some hot tea, gave me warm socks, and we kissed. I moved in.
+私は風邪をひいてしまった。旅行の日が近づくにつれ、気分は悪くなってきたが、「もしかしたら大丈夫かもしれない」と期待していた。モスクワからサンクトペテルブルク行きの電車が来たとき、明らかに熱を持っていた。彼女は、とにかく彼女の家に来なさいと言った。彼女は熱いお茶を入れてくれて、暖かい靴下をくれて、キスをしました。私は引っ越してきました。
 
 ## 2014
 
-For me, 2014 was the year of React.
+私にとって2014年はReactの年でした。
 
-After a brief existential crisis, we abandoned the iPad app and decided to pivot to a webapp. That meant I had to learn JavaScript, this time for reals. We built a decent prototype with Backbone, but interactive parts were a pain to code.
+短い実存的危機の後、iPadアプリを放棄し、ウェブアプリに移行することにしました。それは私がJavaScriptを学ばなければならないことを意味していました。Backboneを使ってまともなプロトタイプを構築しましたが、インタラクティブな部分はコーディングするのが面倒でした。
 
-My colleague saw React but initially dismissed it. But a few months later, he told me React wasn't actually that bad. I decided to give React a try. Ironically, the first component I converted from Backbone to React was a Like button.
+同僚はReactを見ていましたが、最初は却下していました。しかし数ヶ月後、彼はReactはそれほど悪くないと教えてくれました。私はReactを試してみることにしました。皮肉なことに、私がBackboneからReactに変換した最初のコンポーネントは「いいね！」ボタンでした。
 
-And it worked well. *Really* well. It felt unlike anything I've seen.
+そして、それはうまく機能しました。**本当に**よく動きました。今まで見たことのないような感じがした。
 
-React wasn't a hard sell for the team. Over the next year we gradually converted all of our UI to React while shipping new features. React and the principle of unidirectional data flow allowed us to develop faster and with fewer bugs.
+Reactはチームにとっては売り物ではありませんでした。次の1年の間に、私たちは新機能を出荷しながら、徐々にすべてのUIをReactに変換していきました。Reactと単一方向のデータフローの原理により、より速く、より少ないバグで開発することができました。
 
-We started a private beta, and some photographers enjoyed creating visual stories with it. It was something between Medium, Pinterest, and Tumblr. There wasn't a lot of traction, but it wasn't a complete failure like the iPad app.
+私たちはプライベートベータを開始し、何人かのフォトグラファーがそれを使ってビジュアルなストーリーを作って楽しんでくれました。それは Medium、Pinterest、Tumblr の間のようなものでした。牽引力はあまりありませんでしたが、iPadアプリのように完全に失敗したわけではありませんでした。
 
-The only problem with using React was that there was virtually no ecosystem. When we just started, there was only one router (which was *not* React Router), and we couldn't figure out how to use it. So we made our own. After React Router came out, we adopted it and [added](https://github.com/ReactTraining/react-router/pull/388) a feature we needed for our product.
+Reactを使う上での唯一の問題は、エコシステムがほとんどないことでした。私たちが始めたばかりの頃は、Reactルーターが1つしかなく（**Reactルーターではなかった**）、どうやって使えばいいのかわからなかったんです。そこで、自分たちで作ってみました。React Routerが出てきてからは、それを採用し、自社製品に[必要な機能を追加しました](https://github.com/ReactTraining/react-router/pull/388)。
 
-There was no drag and drop solution for our use cases, so I [ported](https://github.com/react-dnd/react-dnd/releases/tag/v0.1.0) my colleague's library to React. I made [a helper](https://github.com/gaearon/react-document-title/releases/tag/v0.1.0) to manage document titles. Wrote [another library](https://github.com/paularmstrong/normalizr/releases/tag/v0.1.1) to normalize API responses. Jing Chen from the React IRC channel suggested the core idea, and it worked! Little did I know that in a few years, Twitter would build their new website with this library and maintain it.
+私たちのユースケースにはドラッグ＆ドロップのソリューションがなかったので、同僚のライブラリをReactに[移植](https://github.com/react-dnd/react-dnd/releases/tag/v0.1.0)しました。ドキュメントタイトルを管理する[ヘルパー](https://github.com/gaearon/react-document-title/releases/tag/v0.1.0)を作った。APIレスポンスを正規化するために[別のライブラリ](https://github.com/paularmstrong/normalizr/releases/tag/v0.1.1)を書いた。React IRC チャンネルの Jing Chen さんがコアなアイデアを提案してくれて、それはうまくいきました。数年後には、Twitterがこのライブラリを使って新しいWebサイトを構築し、それを保守するようになるとは、私はほとんど知りませんでした。
 
-I wanted to contribute to React itself, too. I reached out to Paul O’Shannessy and asked if there were any pull requests I could work on. I finished [my first task](https://github.com/facebook/react/pull/1601) in a few days, but it didn't get merged until a few months later. Big project release cycles, and all that. I was frustrated by the slowness in response so I put effort into the ecosystem instead. In retrospect, that was a lot more impactful.
+私はReact自体にも貢献したいと思っていました。私はPaul O'Shannessyに連絡を取り、私が作業できるプルリクエストがあるかどうかを尋ねました。私は数日で[最初のタスク](https://github.com/facebook/react/pull/1601)を完成させましたが、それがマージされたのは数ヶ月後になってからでした。大きなプロジェクトのリリースサイクル、その他諸々。私はその対応の遅さに不満を感じていたので、代わりにエコシステムに力を入れました。振り返ってみると、その方がはるかにインパクトがありました。
 
-In 2014, I did some of my first public speaking. I gave sort of a lecture about React at our office. It ended up going for two hours, and I'm still surprised that most of the people who showed up were polite enough to stay to the end.
+2014年、私は初めて人前で講演をしました。オフィスでReactについての講義のようなものをしました。結局2時間に及んだのですが、来てくれた人のほとんどが礼儀正しく最後まで残ってくれたことに今でも驚いています。
 
-Later, I signed up to give a talk at the BerlinJS meetup. My topic was "React and Flux". I didn't practice my talk, and I only went through the first half when my time ran out. People rolled their eyes, and I finally learned my lesson. From that point on, I would rehearse every talk from three up to fifteen times.
+その後、BerlinJSのミートアップで講演をするためにサインアップしました。私のトピックは「ReactとFlux」でした。私は講演の練習をしていなかったので、時間切れになったときに前半を通過しただけでした。人々は目を丸くしていましたが、私はようやく教訓を得ました。それ以来、私はすべてのトークを3回から15回までリハーサルするようになりました。
 
-In 2014, I got my first email from a Facebook recruiter. I missed it in my inbox and only found it many months later. We still chatted eventually, but it turned out that hiring me in USA wouldn't be easy because I didn't have enough years of experience *and* I dropped out of college. Oops.
+2014年、私はFacebookのリクルーターから初めてメールを受け取りました。私はそれを私の受信トレイに見逃し、それを見つけたのは何ヶ月も経ってからでした。私たちはまだ最終的にはチャットしたが、それは私が経験の十分な年を持っていなかったと私は大学を中退したので、米国で私を雇うことは容易ではないだろうことが判明した。おっと。
 
-There was one project I started in 2014 that was particularly dear to me. Like most important things in my life, it happened randomly. I was converting our app from require.js to webpack to enable code splitting. I read about a bizarre webpack feature called "hot module replacement" that allowed you to edit CSS without reloading the page. But in webpack, it could work for JavaScript too.
+2014年に始めたプロジェクトの中で、私にとって特に大切なものがありました。私の人生で最も重要なことのように、それはランダムに起こりました。私はコード分割を可能にするために、アプリをrequire.jsからwebpackに変換していました。私は「ホットモジュール置換」というwebpackの奇妙な機能について読んだのですが、これはページをリロードせずにCSSを編集することができるというものでした。しかし、webpackではJavaScriptでも動作するようになっていました。
 
-I was really confused by this feature so I [asked](https://stackoverflow.com/questions/24581873/what-exactly-is-hot-module-replacement-in-webpack) about it on StackOverflow. Webpack was still very new, and its creator noticed my question and left a response. It gave me enough information to see I could tie this feature with React, in the spirit of the first demo from Bret Victor's talk I mentioned earlier.
+この機能には本当に戸惑ったので、StackOverflowで[質問してみました](https://stackoverflow.com/questions/24581873/what-exactly-is-hot-module-replacement-in-webpack)。Webpackはまだ非常に新しく、その作成者は私の質問に気づいて回答を残してくれました。Webpack の作者は私の質問に気づき、その回答を残してくれました。それは私にこの機能を React と結びつけることができるかどうかを確認するのに十分な情報を与えてくれました。
 
-I wrote an extremely hacky proof of concept by editing React source code and adding a bunch of global variables. I decided I won't go to sleep until it works, and by 7am I had a demo I could [tweet](https://twitter.com/dan_abramov/status/485611717183819776). Nobody cared about my Twitter before that, but this received some likes and retweets, and those 20 retweets were hugely validating. I knew then I'm not the only one who thinks this is exciting. This proof of concept was a throwaway effort and I didn't have time to keep working on it at my job. I took a vacation, and finished off the [prototype](https://github.com/gaearon/react-hot-loader/tree/v0.1.0) there.
+私はReactのソースコードを編集し、グローバル変数の束を追加することで、非常にハックな概念実証を書いた。それが動くまで寝ないと決めて、朝7時までにはツイートできるデモを作った。それまでは誰も私のTwitterを気にしていませんでしたが、[これ](https://twitter.com/dan_abramov/status/485611717183819776)はいくつかの「いいね！」とリツイートを受け、その20回のリツイートは非常に有効なものでした。これはエキサイティングだと思っているのは私だけではないことがわかりました。このコンセプトの証明は、仕事をしていても時間がなくて投げやりになっていました。私は休暇を取って、そこで[プロトタイプ](https://github.com/gaearon/react-hot-loader/tree/v0.1.0)を完成させました。
 
-Quick disclaimer: again, I'm not saying you "need to" work nights or vacations. I'm not glorifying hustle, and there are plenty of people with great careers who did none of that. In fact, if I were better at time management, I could probably find a way to squeeze those non-interrupted hours in my regular day, or to learn to make progress with interruptions. I am sharing this because I'm telling my story, and it would be a lie to pretend I did everything in a 40 hour week.
+クイック免責事項：再び、私はあなたが夜勤や休暇を「必要」と言っているわけではありません。私はハッスルを賞賛しているわけではないし、偉大なキャリアを持つ多くの人々がそのどれもしなかった。私は時間管理に優れていた場合、実際には、私はおそらく私の通常の一日でそれらの非中断時間を圧迫する方法を見つけることができます、または中断との進捗状況を確認することを学ぶために。私は私の話をしているので、私はこれを共有しているし、それは私が週40時間ですべてをやったふりをするのは嘘になるだろう。
 
 ## 2015
 
-Our product went out of a private beta. It was growing, but slowly and linearly. The company was running out of funding and struggled to raise more money. And I wanted to spend more and more time on my open source projects.
+私たちの製品は プライベートベータから出ました それは成長していましたが、ゆっくりと直線的に成長していました。会社は資金不足に陥り、より多くの資金調達に苦労していました。そして、私は自分のオープンソースプロジェクトにもっともっと時間をかけたいと思っていました。
 
-I also wanted to give my first conference talk. Naturally, I wanted to talk about hot reloading, but I knew somebody already mentioned it at ReactConf, and I thought people wouldn't be excited about it. I decided to add some spice to my [talk proposal](https://github.com/react-europe/cfp-2015/pull/7) by adding "with time travel" -- again, inspired by Bret's demo. The proposal got accepted, and for a few months I didn't think much about it.
+また、初めてのカンファレンスで講演をしたいとも思っていました。当然、ホットリロードについて話したかったのですが、ReactConfで誰かがすでに言及していたことを知っていましたし、人々はそれについて興奮しないだろうと思っていました。そこで私は[自分の提案したトーク](https://github.com/react-europe/cfp-2015/pull/7)に「with time travel」というスパイスを加えてみることにしました。提案は受け入れられ、数ヶ月間はあまり考えずに過ごしていました。
 
-In April, my salary got delayed by several weeks. It went through eventually, but I realized it's time to look for a new job. I found some company using one of my projects, and they agreed to sponsor my work on it for a few months.
+4月には、給料が数週間遅れた。最終的には通ったんだけど、新しい仕事を探す時が来たんだと気づいたんだ。私のプロジェクトの一つを使っている会社を見つけて、彼らは数ヶ月間私のプロジェクトのスポンサーになってくれることに同意しました。
 
-My girlfriend asked if I wanted to get married. I said I thought I'd get married late in my 30s. She asked: "Why?" I couldn't really find any justification for waiting so we soon bought rings and got married. Our wedding has cost us $100.
+ガールフレンドが結婚したいかどうか聞いてきました。私は30代の後半に結婚すると思っていたと言った。彼女は尋ねた "何で？"って 待つ理由が見つからなかったので、すぐに指輪を購入して結婚しました。私たちの結婚式には100ドルの費用がかかりました。
 
-The deadline for my talk was approaching. But I had no idea how to implement "time travel". I knew that Elm had something similar, but I was scared to look at it because I worried I'd find out time travel can't be implemented well in JS.
+私の話の締め切りが近づいていました。しかし、私は「タイムトラベル」をどうやって実現するのか見当がつきませんでした。Elmにも似たようなものがあるのは知っていたのですが、JSではタイムトラベルがうまく実装できないことがわかるのではないかと心配で怖くて見ていませんでした。
 
-At the time, there were many Flux libraries. I've tried a few of those, notably Flummox by Andrew Clark, and I had a vague sense that making hot reloading work with Flux would *also* let me implement time travel. Sunil's [gist](https://gist.github.com/threepointone/43f16389fd96561a8b0b) led me to an [idea](https://gist.github.com/gaearon/c02f3eb38724b64ab812): a variant of Flux pattern with a reducer function instead of a store. I had a [neat name](https://twitter.com/dan_abramov/status/597391033513697281) in mind for it already. And I really needed it for my talk!
+当時はFluxのライブラリがたくさんありました。その中でも特にAndrew Clark氏のFlummoxを試してみたのですが、**ホットリロードをFLUXで動作させれば**タイムトラベルも実装できるのではないかと漠然と思っていました。Sunil氏の[gist](https://gist.github.com/threepointone/43f16389fd96561a8b0b)は私に[アイデア](https://gist.github.com/gaearon/c02f3eb38724b64ab812)をもたらしました。Fluxのパターンにストアの代わりにレデューサー機能を持たせたものです。私はすでに[その名前](https://twitter.com/dan_abramov/status/597391033513697281)を考えていました。そして、今回の講演にはそれが必要だったのです。
 
-I implemented Redux just in time for my demo of time travel. My first talk rehearsal was on Skype. I was sweating, mumbling, and running over it too fast. At the end of my rehearsal, I asked the organizer if my talk was any good. He said "well... people *like* you" which I took as an euphemism for horrible.
+タイムトラベルのデモに間に合うようにReduxを実装しました。最初のリハーサルはスカイプで行いました。汗をかいて、つぶやいて、あっという間に終わってしまいました。リハーサルの最後に、私は主催者に自分のトークが良かったかどうかを尋ねました。彼は「まあ...あなたの**ような**人は」と言っていましたが、私はそれを恐ろしいという意味の婉曲表現として捉えました。
 
-I asked a designer friend from the startup I just quit to help make my slides pretty. I added animations and transitions. The more polished my talk looked, the calmer and more confident I felt. I practiced it a dozen times.
+私は、私はちょうど私のスライドがかなり作るのを助けるために辞めたスタートアップからのデザイナーの友人に尋ねた。私はアニメーションやトランジションを追加しました。より洗練された私の話を見て、より落ち着いて、より自信を持って感じました。何度も練習しました。
 
-I flew to Paris for my first technical conference. This was probably the happiest day of my life. For the first time, I put faces next to avatars. There were UI nerds and my personal heroes around me. It felt like going to Hogwarts.
+私は初めての技術会議のためにパリに飛びました。この日は人生で一番幸せな日だったかもしれません。初めてアバターの隣に顔を並べました。私の周りにはUIオタクと私の個人的なヒーローがいました。ホグワーツに行ったような気分でした。
 
-My talk almost didn't happen. In the morning, I found that my laptop refused to connect to the projector. I only had a few hours left. Christopher Chedeau was kind enough to lend me his laptop, and I transferred my live demo setup to his computer (except for the Sublime license, as you may know if you watched it).
+私のトークはほとんど実現しませんでした。朝、私のノートパソコンがプロジェクターに接続できないことに気がついた。あと数時間しかなかった クリストファー・シェドーが親切にも彼のラップトップを貸してくれたので、私はライブデモのセットアップを彼のコンピュータに転送しました（Sublimeのライセンスを除いて）。
 
-At first, my demo didn't run on Christopher's laptop because we had different Node versions. The conference WiFi was so bad that downloading another Node version was a non-starter. Luckily, I found an npm command that rebuilds the binaries. It saved my demo. I gave my talk with his computer, and it [went well](https://www.youtube.com/watch?v=xsSnOQynTHs).
+最初のうちは、私のデモはクリストファーのラップトップ上では動作しませんでしたが、それは私たちのNodeのバージョンが違っていたからです。会議のWiFiはとても悪かったので、別のNodeのバージョンをダウンロードすることはできませんでした。幸運にも、バイナリを再構築する npm コマンドを見つけました。それは私のデモを保存してくれました。私は彼のコンピュータを使って話をしましたが、それは[うまくいきました](https://www.youtube.com/watch?v=xsSnOQynTHs)。
 
-I met many people in the audience who I already knew from Twitter. One of them was Jing Chen. I remembered her from our IRC chat on the React channel, and came to say hi. She asked whether FB recruiters contacted me before, and I said I couldn't get a US visa. Jing asked whether I'm interested in working at the London office, and I had no idea there even *was* a London office! I called my wife and asked if she's up for moving to London. I thought she'd hate the idea, but she immediately said yes. So I said yes to an interview.
+会場では、すでにツイッターで知り合った人たちにもたくさん会った。その中の一人がJing Chenさんでした。私はReactチャンネルのIRCチャットで彼女のことを覚えていて、挨拶に来ました。彼女は以前にFBのリクルーターが私に連絡してきたかどうかを尋ねてきたので、私はアメリカのビザが取得できないと答えました。Jingはロンドンのオフィスで働くことに興味があるかどうかを尋ねてきたので、ロンドンにオフィスがあることすら**知らなかった**。妻に電話して、ロンドンに引っ越す気があるかどうか聞いてみました。私は彼女がそのアイデアを嫌うだろうと思ったが、彼女はすぐにイエスと言った。だから私はインタビューにイエスと言った。
 
-There were four people from FB at the conference, so Jing arranged a full interview right at the conference hotel. It was a regular interview process, except it was in Paris and everyone was sweaty because it was so hot outside.
+会議にはFBから4人の人が来ていたので、Jingは会議のホテルで完全な面接を手配してくれました。それは、それがパリであったことを除いては、普通の面接のプロセスでしたが、それは外がとても暑かったので、みんな汗だくでした。
 
-Everything happened so spontaneously that I neither had time to prepare, nor to get nervous. At one point I freaked out and panicked because I couldn't write three lines of code that swap two items in an array. I asked Jing to look away for a few seconds. She said "I know you can swap two items", and that gave me the confidence to finish the answer and make it through the interview. I probably didn't pass with flying colors, but I got the offer.
+すべてが自然発生的に起こったので、私は準備する時間も緊張する時間もありませんでした。ある時は、配列の中の2つの項目を入れ替えるコードを3行書けなかったので、パニックになってしまいました。私はJingに数秒目をそらすように頼んだ。彼女は「2つの項目を入れ替えることができるのは知っています」と言ってくれたので、私は自信を持って答えを書き終え、面接を通過することができました。多分、見事には受からなかったと思いますが、内定をいただきました。
 
-My talk got really popular. Andrew Clark has already deprecated Flummox -- the most popular Flux library -- in favor of Redux, which he co-wrote with me. People started putting Redux in production. New learners were confused by the README, which was written for early adopters who had all the existing context. I didn't have a job, and it would take me several more months to get a UK visa.
+私の話はとても人気がありました。Andrew ClarkはFlummoxという最も人気のあるFLUXライブラリをすでに非推奨にしていましたが、彼は私と共同で書いたReduxを支持していました。Reduxは私と共同で開発したものです。新しい学習者は、既存のコンテクストをすべて持っているアーリーアダプターのために書かれた README に戸惑いました。私には仕事がなく、イギリスのビザを取得するのにさらに数ヶ月かかることになりました。
 
-I started a Patreon to sustain my projects for a few months -- and specifically to write Redux documentation, create small example apps, and record some free videos about it. I raised about $5k/month on Patreon which was more than any salary I made by that point in my life. Folks from Egghead sent me some mic gear, and I recorded my "Getting Started with Redux" course. I can't watch it without cringing today, but it has been very popular and made me good money (around $3k/month in royalties) for quite a while -- even though it was free.
+私は数ヶ月間プロジェクトを維持するためにPatreonを始めました - 具体的にはReduxのドキュメントを書いたり、小さなサンプルアプリを作ったり、それについての無料動画をいくつか録画したりするためです。Patreonで月に約5,000ドルを集めましたが、これは私の人生の中でその時点までに稼いだどの給料よりも多かったです。Eggheadの人たちがマイク機材を送ってくれて、"Getting Started with Redux "コースを録画しました。今では、このコースを見ていても震えてしまうほどですが、それはとても人気があり、かなりの間、私に良いお金を稼いでくれました（ロイヤリティは月に3,000ドルほど）。
 
-FB took care of handling most of the immigration process. My wife and I only had to fill some papers, and I had to take an English exam and do some health checks. FB did most of the work to relocate us, including moving our cat from Russia to UK (which cost around $5k). I was hired at engineering level 4, with initial base salary of $100k/year and an initial restricted stock unit grant of $125k vesting over four years. I also had a signing bonus of $18k which helped a lot as we were settling in. (By the way, tech salaries are lower in UK than in US.)
+移住手続きのほとんどをFBが代行してくれた。妻と私はいくつかの書類を記入するだけで、私は英語の試験と健康チェックを受けなければなりませんでした。FBは、ロシアからイギリスへの猫の移動を含め、私たちの移転のためのほとんどの作業をしてくれました（これには約5kドルの費用がかかりました）。私はエンジニアレベル4で採用され、最初の基本給は年俸10万ドルで、4年間で権利確定する12万5千ドルの初期制限付きストックユニットが支給されました。また、18,000ドルのサインボーナスもありましたが、これが落ち着いてきた頃にはかなり助かりました。(ちなみに、イギリスの技術系の給料はアメリカよりも低いです)
 
-We arrived to London at the end of November 2015. We've never been to London before. We took a black cab from the airport. We couldn't figure out how to turn off the heating in the cab for ten minutes so we got very sweaty and couldn't see anything through the window. When we turned off the fan and the window cleared up, our eyes were wide like saucers. London was beautiful.
+2015年11月末にロンドンに到着しました。私たちはロンドンに来たことがありませんでした。私たちは空港から黒いタクシーに乗りました。10分間、タクシーの中の暖房の消し方がわからなかったので、汗だくになって窓から何も見えなくなってしまいました。扇風機のスイッチを切って窓が晴れたとき、私たちの目は円盤のように大きくなっていました。ロンドンは美しかった。
 
-The next day, Roman Mazurenko got hit to death by a careless driver. He just got his US visa approved, and he came to Moscow to pick up his documents. He once told me that there's something devilish about Moscow. It doesn't just let you go. I would not see my friend again. Not in 2015, not ever.
+次の日、ローマン・マズレンコは不注意な運転手にはねられて死亡した。彼はアメリカのビザが承認されたばかりで、書類を取りにモスクワに来た。彼は以前、モスクワには悪魔のようなものがあると言っていた。それはただ逃がしてくれるだけではない。私はもう二度とその友人には会わないだろう。２０１５年には絶対に
 
-Roman has had a sort of a [digital](https://romanmazurenko.com/) [afterlife](https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot), courtesy of his friends. I know for a fact he would've loved the irony of having a two point five star [App Store rating](https://apps.apple.com/us/app/roman-mazurenko/id958946383).
+ローマンは友人のおかげで[デジタル](https://romanmazurenko.com/)の[死後の生活](https://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot)を送っている 彼は皮肉が好きだっただろうな[App Store](https://apps.apple.com/us/app/roman-mazurenko/id958946383)の評価が2点5つ星だからな
 
 ## 2016
 
-New job. New city. New country. Different language. Unfamiliar accent. Big company. Orientation. Meeting rooms. Projects. Teams. Documents. Forms. Shit. Fuck. Fuck. Fuckety Fuck, Shit, Oh Dear, Blimey!
+新しい仕事だ 新しい都市。新しい国。異なる言語。馴染みのないアクセント。大企業。オリエンテーション。会議室。プロジェクト。チーム。文書。フォーム。くそっ 畜生 畜生 クソッ！クソッ！クソッ！
 
-I barely remember the first few months. I was in a constant state of stress from trying to understand what people are saying without subtitles. What the hell is my manager telling me? Is it rude to ask to repeat again? Spell it for me?
+最初の数ヶ月はほとんど覚えていない 字幕なしで何を言っているのか理解しようとすることにストレスを感じ続けていました。マネージャーは一体何を言っているんだ？もう一度聞くのは失礼か？スペルをかけてくれないか？
 
-What, I need to call a lady in Scotland to get a national insurance number _by phone_? I don't get a word she's saying. What even *is* the national insurance? Why do I have a "zero" tax code and why is my salary less than I expected? Wait, people _actually pay taxes_ here? What do I do when I'm sick? What's NHS?
+スコットランドの女性に**電話で**国保の番号を教えてもらわないといけないのか？彼女の言っていることが聞き取れない。そもそも国民保険って**何**？なんで税金が「ゼロ」なのに、給料が思ったより少ないの？まてよ、ここの人って**実際に税金払ってるの**？病気になったらどうすればいいの？NHSって何？
 
-During my first trip to US in 2016 (part of onboarding), I forgot to eat the whole day, drank a lot of coffee, and had a full-fledged panic attack trying to explain how hot reloading works to a colleague. We called an ambulance, and I got a $800 bill (thankfully, paid by FB -- or at least I don't recall paying it myself).
+2016年の初めてのアメリカ旅行中（搭乗の一環）、私は一日中食事を忘れ、コーヒーを大量に飲み、同僚にホットリロードの仕組みを説明しようとして本格的なパニック発作を起こしました。救急車を呼び、800ドルの請求書をもらいました（ありがたいことにFBで支払われましたが、少なくとも自分で支払った記憶はありません）。
 
-Relocation was nerve-wracking even though the company handled most of the difficulties. I thought I did everything in the onboarding instructions, but I forgot to register with the police. (I confused this with registering at the post office, which we also had to do.) I only found out that we screwed up months later, and we were told it might affect our visas. Luckily, it didn't so far.
+移転は、会社がほとんどの困難を処理してくれたにもかかわらず、神経をすり減らしました。搭乗説明書に書いてあることは全部やったつもりだったのですが、警察に登録するのを忘れていました。郵便局への登録と混同してしまいました。数ヶ月後になって初めてそのことに気付きましたが、ビザに影響が出るかもしれないと言われてしまいました。幸いなことに、今のところ影響はありませんでした。
 
-Originally, I was supposed to join the React Native team in London. Usually, we hire people to go through Bootcamp and pick a team, but I didn't have that freedom. I was preallocated. However, I wasn't very excited about React Native in particular. I talked to Tom Occhino (he managed the React team at that time), and he suggested that I can join the [React Core](https://reactjs.org/community/team.html) team (based in US) as the only UK member. I was already used to remote work from open source, so I agreed.
+元々、私はロンドンのReact Nativeチームに参加することになっていました。通常はBootcampを経てチームを選ぶために人を雇うのですが、私にはその自由がありませんでした。私は事前に割り当てられていました。しかし、特にReact Nativeにはあまり乗り気ではありませんでした。Tom Occhino（彼は当時Reactチームを管理していました）に相談したところ、[React Core](https://reactjs.org/community/team.html)チーム（アメリカに拠点を置く）に唯一のUKメンバーとして参加することを提案されました。すでにオープンソースからのリモートワークには慣れていたので、承諾しました。
 
-In 2016, there was a React boom, but everybody made their own "boilerplate" with a bundler, watcher, compiler, and so on. React became synonymous with modular JavaScript, ES6, and all the tooling complexity. Christopher Chedeau suggested to prototype a command-line interface for getting started with React. We made the first version in a few weeks and released [Create React App](https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html).
+2016年はReactブームがありましたが、みんなバンダラーやウォッチャー、コンパイラなどを使って自分の「ボイラープレート」を作っていました。ReactはモジュラーJavaScript、ES6、すべてのツールの複雑さの代名詞となった。Christopher Chedeau氏は、Reactを使い始めるためのコマンドラインインターフェースをプロトタイプ化することを提案しました。数週間で最初のバージョンを作り、[Create React App](https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html)をリリースしました。
 
 ## 2017
 
-Egghead courses continued to bring steady side income with royalties. I didn't think twice before spending them on food delivery or nice clothes.
+エッグヘッドコースは印税で安定した副収入を得続けていました。食べ物の配達や素敵な服に使う前に、私はそれらを考えることはありませんでした。
 
-It's only in 2017 that I came to realize that these royalties are taxable as foreign income, and that I owe Her Majesty something like $30k. Oops. Like an adult, I got an accountant. Fixing this mess depleted all my savings again.
+これらの印税は外国所得として課税されること、そして私は30万ドルのようなものをHer Majestyに借りていることに気付いたのは2017年になってからです。おっと 大人のように、私は会計士を得た。この混乱を修正することは、再びすべての私の貯蓄を枯渇させた。
 
-At work, we spent most of 2017 rewriting React from scratch. You know the result of it as [React 16](https://reactjs.org/blog/2017/09/26/react-v16.0.html). Sophie tells the story of how we did it [here](https://engineering.fb.com/web/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/).
+仕事では、2017年の大半をReactを一から書き換えることに費やした。その結果を[React 16](https://reactjs.org/blog/2017/09/26/react-v16.0.html)として知っていますね。ソフィーは[ここ](https://engineering.fb.com/web/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/)でどうやってやったかを語っています。
 
-Aside from taxes, there wasn't a lot happening in my personal life. I was still settling in. I got less shy dealing with bureaucracies. I could make and take phone calls without freaking out. I watched movies without subtitles. I learned how to deal with NHS and with private insurance. I stopped doing side projects.
+税金のことはさておき、私生活ではあまり大きな出来事はありませんでした。私はまだ落ち着いていました。官僚とのやり取りを恥ずかしがらずにできるようになりました。電話も平気でかけられるようになりました。映画も字幕なしで見れるようになりました。NHSや民間保険の扱い方を学びました。副業をしなくなった。
 
 ## 2018–2019
 
-The last two years have been a blur. I'm still too close to them to have a clear perspective on what was important.
+この2年間はあっという間でした。何が重要だったのかを明確に把握するには、まだ彼らとの距離が近すぎます。
 
-Professionally, our projects are as demanding as ever. If you follow React, you know about [some things](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html) [we have been working on](https://reactjs.org/blog/2018/11/13/react-conf-recap.html). I've grown as an engineer, and still have much to learn. Our London team has grown -- I'm not alone now.
+専門的には、私たちのプロジェクトは相変わらず厳しいものがあります。Reactをフォローしている人なら、私たちが[取り組んできたこと](https://reactjs.org/blog/2018/11/13/react-conf-recap.html)を[いくつか](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)知っているはずです。私はエンジニアとして成長しましたが、まだまだ学ぶべきことがたくさんあります。ロンドンのチームは成長しました。私は一人ではありません。
 
-People occasionally recognize me. This is humbling. Someone once recognized me in a sauna and started complaining about React. Please don't be that person.
+人々は時折私のことを認識してくれます。これは謙虚な気持ちになります。誰かがサウナで私を認識して、Reactについて文句を言い始めたことがあります。そのような人にならないでください。
 
-I got promoted. I started this blog as a side project. I have [another side project](https://justjavascript.com/) coming, which I've been musing about for the better part of these two years. I met more people from the internet and put more faces to avatars. This is fun.
+私は昇進しました。私はサイドプロジェクトとしてこのブログを始めました。この2年の間、ずっと考えていた[もう一つのサイドプロジェクト](https://justjavascript.com/)が近づいています。ネットで知り合った人が増えたし、アバターにも顔を付けるようになった。これは楽しいですね。
 
-I always knew that I liked building UIs. I got hooked on Visual Basic. I spent this decade building UIs, and then building a way to build UIs. And then talking about it and explaining it. But I realize now that my drive to *explain* things is just as important to me as my drive to build. Perhaps, even more important.
+UIを作るのが好きなのは前からわかっていた。Visual Basicにはまってしまいました。私はこの10年をかけて、UIを構築し、UIを構築する方法を構築しました。そしてそれについて話したり**説明**したりしました。しかし今では、物事を説明しようとする気持ちは、ビルドしようとする気持ちと同じくらい重要だと気づいています。もしかしたら、もっと重要かもしれません。
 
-I look forward to doing more of that in the next decade.
+次の10年にはもっと説明することを楽しみにしています。
 
-Or, should I say, *this* decade?
+というか、**この**10年というべきか。
 
-Welcome to the twenties.
+20代へようこそ。
